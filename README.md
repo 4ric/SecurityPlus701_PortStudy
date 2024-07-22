@@ -1,4 +1,6 @@
-If you are stuggling to learn the key ports required for CompTIA Security+ SY0-701 exam, this script might be helpful.
+If you are stuggling to learn key ports required for CompTIA Security+ SY0-701 exam, this script might be helpful.
+
+Running the script will open a basic UI asking you 2 questions.
 
 What it does?
 It either asks you to provide a port number or a protocol name as the first question and the transport method as a second question.
